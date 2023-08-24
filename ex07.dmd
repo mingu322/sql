@@ -1,0 +1,9 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="ex07" id="E010EBAD-688F-E588-7604-F40F1ABE0F51" version="3.5">
+<createdBy>user</createdBy>
+<createdTime>2023-07-10 00:05:04 UTC</createdTime>
+<generatorID>사용자 생성</generatorID>
+<ownerDesignName>ex07</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>E010EBAD-688F-E588-7604-F40F1ABE0F51</designId>
+</OSDM_Design>

@@ -1,0 +1,48 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev11g class="oracle.dbtools.crest.model.design.storage.oracle.v11g.TableProxyOraclev11g" name="PRODUCTS" directorySegmentName="seg_0" id="2EDF6C97-BEE3-AAC4-C219-A5B15D979DC4">
+<createdBy>user</createdBy>
+<createdTime>2023-07-10 00:06:01 UTC</createdTime>
+<generatorID>사용자 생성</generatorID>
+<ownerDesignName>ex07</ownerDesignName>
+<schemaObject>36F2B8ED-E327-DDAB-C7D7-EAC862EE656E</schemaObject>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<segment>F6468425-14E7-E380-2875-D1B2BFA73B2B</segment>
+<tableSpace>D3935E0E-11C8-E498-1239-2F6C63E07E2D</tableSpace>
+<temporaryChanged>false</temporaryChanged>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="PCODE" id="6B085240-E740-0C07-75C6-92A866F3BD7A">
+<createdBy>user</createdBy>
+<createdTime>2023-07-10 00:06:01 UTC</createdTime>
+<generatorID>사용자 생성</generatorID>
+<ownerDesignName>ex07</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="PNAME" id="A1A8B1FE-B2D6-BAC3-204B-61DB9FF0659B">
+<createdBy>user</createdBy>
+<createdTime>2023-07-10 00:06:01 UTC</createdTime>
+<generatorID>사용자 생성</generatorID>
+<ownerDesignName>ex07</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="PPRICE" id="C568CB89-0CA7-EB20-B381-AA036E7CACBD">
+<createdBy>user</createdBy>
+<createdTime>2023-07-10 00:06:01 UTC</createdTime>
+<generatorID>사용자 생성</generatorID>
+<ownerDesignName>ex07</ownerDesignName>
+<defaultValue>0</defaultValue>
+</ColumnProxy>
+</columnProxies>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.PKProxyOraclev10g" name="PRODUCTS_PK" id="03FCCD2E-A4CC-016F-A2CD-0CEBE3B2695D">
+<createdBy>user</createdBy>
+<createdTime>2023-07-10 00:06:01 UTC</createdTime>
+<generatorID>사용자 생성</generatorID>
+<ownerDesignName>ex07</ownerDesignName>
+<schemaObject>36F2B8ED-E327-DDAB-C7D7-EAC862EE656E</schemaObject>
+<segment>CF0B1FF6-4348-488A-2BE4-9236DBA92CDC</segment>
+<tableSpace>D3935E0E-11C8-E498-1239-2F6C63E07E2D</tableSpace>
+<indexSegment>CF0B1FF6-4348-488A-2BE4-9236DBA92CDC</indexSegment>
+<indexSort>SORTED</indexSort>
+<usingIndex>BY INDEX NAME</usingIndex>
+</PrimaryKey>
+</primaryKeys>
+</TableProxyOraclev11g>

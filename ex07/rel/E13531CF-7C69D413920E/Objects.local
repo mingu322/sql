@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<oracle.dbtools.crest.model.design.relational.RelationalDesign>
+   <object objectType="SchemaObject" objectID="36F2B8ED-E327-DDAB-C7D7-EAC862EE656E" name="JAVA" seqName="seg_0"/>
+   <object objectType="Table" objectID="2EDF6C97-BEE3-AAC4-C219-A5B15D979DC4" name="PRODUCTS" seqName="seg_0"/>
+   <object objectType="Table" objectID="8A264A7E-1A70-EB56-B204-7C397E3BDE39" name="SALE" seqName="seg_0"/>
+   <object objectType="FKIndexAssociation" objectID="C97AB665-E23A-1833-E3CD-8EF004B4FA85" name="SYS_C007030" seqName="seg_0"/>
+</oracle.dbtools.crest.model.design.relational.RelationalDesign>

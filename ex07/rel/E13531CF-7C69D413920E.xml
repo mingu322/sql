@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<relationalModel class="oracle.dbtools.crest.model.design.relational.RelationalDesign" name="Relational_1" id="E13531CF-0E20-2638-37D6-7C69D413920E" mainViewID="EC0F2F46-D8C6-85E1-6893-32C6BA1806B1">
+<createdBy>user</createdBy>
+<createdTime>2023-07-10 00:05:05 UTC</createdTime>
+<generatorID>사용자 생성</generatorID>
+<ownerDesignName>ex07</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+<selectedRDBMSSite>32076570-2523-435C-2E92-BF29817DFF70</selectedRDBMSSite>
+<importConnectionStamps>
+<importConnectionStamp class="oracle.dbtools.crest.imports.DBConnectionStamp">
+<connName>java</connName>
+<connUrl>jdbc:oracle:thin:@localhost:1521:xe</connUrl>
+<connUser>JAVA</connUser>
+<connType>1</connType>
+</importConnectionStamp>
+</importConnectionStamps>
+</relationalModel>

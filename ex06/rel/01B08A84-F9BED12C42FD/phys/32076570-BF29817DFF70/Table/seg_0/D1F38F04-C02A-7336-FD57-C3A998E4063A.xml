@@ -1,0 +1,48 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev11g class="oracle.dbtools.crest.model.design.storage.oracle.v11g.TableProxyOraclev11g" name="PRODUCTS" directorySegmentName="seg_0" id="D1F38F04-C02A-7336-FD57-C3A998E4063A">
+<createdBy>user</createdBy>
+<createdTime>2023-07-07 01:44:31 UTC</createdTime>
+<generatorID>사용자 생성</generatorID>
+<ownerDesignName>ex06</ownerDesignName>
+<schemaObject>F0289970-A6BE-1145-5601-ADDE1A1CCB8E</schemaObject>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<segment>E4FEE23E-0EB3-2720-1602-2803BD380243</segment>
+<tableSpace>32CB1D62-4CC3-2770-BB22-E64FEB6B4BB5</tableSpace>
+<temporaryChanged>false</temporaryChanged>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="PPRICE" id="306AB041-315A-B6D7-F30E-9B881472D0C9">
+<createdBy>user</createdBy>
+<createdTime>2023-07-07 01:44:32 UTC</createdTime>
+<generatorID>사용자 생성</generatorID>
+<ownerDesignName>ex06</ownerDesignName>
+<defaultValue>0</defaultValue>
+</ColumnProxy>
+<ColumnProxy name="PCODE" id="BE09918C-36C8-DCA7-782F-537ECC0B3360">
+<createdBy>user</createdBy>
+<createdTime>2023-07-07 01:44:32 UTC</createdTime>
+<generatorID>사용자 생성</generatorID>
+<ownerDesignName>ex06</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="PNAME" id="C27ABC57-2BAF-95FF-D591-F141C1612A63">
+<createdBy>user</createdBy>
+<createdTime>2023-07-07 01:44:32 UTC</createdTime>
+<generatorID>사용자 생성</generatorID>
+<ownerDesignName>ex06</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.PKProxyOraclev10g" name="PRODUCTS_PK" id="54A64B55-56E5-472D-FD5F-E3FE201643A1">
+<createdBy>user</createdBy>
+<createdTime>2023-07-07 01:44:32 UTC</createdTime>
+<generatorID>사용자 생성</generatorID>
+<ownerDesignName>ex06</ownerDesignName>
+<schemaObject>F0289970-A6BE-1145-5601-ADDE1A1CCB8E</schemaObject>
+<segment>1056C6A6-6709-EA62-A781-07CFB5B12FB6</segment>
+<tableSpace>32CB1D62-4CC3-2770-BB22-E64FEB6B4BB5</tableSpace>
+<indexSegment>1056C6A6-6709-EA62-A781-07CFB5B12FB6</indexSegment>
+<indexSort>SORTED</indexSort>
+<usingIndex>BY INDEX NAME</usingIndex>
+</PrimaryKey>
+</primaryKeys>
+</TableProxyOraclev11g>

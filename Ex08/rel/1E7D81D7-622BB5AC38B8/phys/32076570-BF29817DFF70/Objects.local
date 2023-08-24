@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<oracle.dbtools.crest.model.design.storage.oracle.v11g.StorageDesignOraclev11g>
+   <object objectType="TSpace" objectID="DF420631-6765-68D3-BDB3-87BC38CFE4F5" name="SYSTEM" seqName="seg_0"/>
+   <object objectType="User" objectID="66FF5304-F8AD-0C28-01A1-045601D72721" name="JAVA" seqName="seg_0"/>
+   <object objectType="User" objectID="MDSYS" name="MDSYS" seqName="seg_0"/>
+   <object objectType="User" objectID="PUBLIC" name="PUBLIC" seqName="seg_0"/>
+   <object objectType="SType" objectID="47E390DE-0671-C4B1-8428-0F45CBEE18F8" name="SDO_GEOMETRY" seqName="seg_0"/>
+   <object objectType="SType" objectID="F72C39E0-D1CA-8821-2AD7-A1E95A37D3D1" name="XMLTYPE" seqName="seg_0"/>
+   <object objectType="Table" objectID="27B00D55-9066-33D8-B7E1-70FB655E566B" name="DETAIL" seqName="seg_0"/>
+   <object objectType="Table" objectID="F1203FF4-10F3-F83B-4AF2-28C83571D619" name="ACCOUNT" seqName="seg_0"/>
+   <object objectType="Segment" objectID="F1B623D9-9C7E-F965-90DB-A399F4172144" name="Storage2" seqName="seg_0"/>
+   <object objectType="Segment" objectID="0B613290-95BD-2B6C-C7EC-A0FDA20EF057" name="Storage6" seqName="seg_0"/>
+</oracle.dbtools.crest.model.design.storage.oracle.v11g.StorageDesignOraclev11g>

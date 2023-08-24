@@ -1,0 +1,12 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<UserOraclev10g class="oracle.dbtools.crest.model.design.storage.oracle.v10g.UserOraclev10g" name="JAVA" directorySegmentName="seg_0" id="C4C3780C-32FF-01CF-D4B6-BA0CA8F21BC8">
+<sourceConnName>java</sourceConnName>
+<sourceObjName>JAVA</sourceObjName>
+<createdBy>user</createdBy>
+<createdTime>2023-07-10 00:05:35 UTC</createdTime>
+<generatorID>사용자 생성</generatorID>
+<ownerDesignName>ex07</ownerDesignName>
+<schemaObject>36F2B8ED-E327-DDAB-C7D7-EAC862EE656E</schemaObject>
+<defTableSpace>D3935E0E-11C8-E498-1239-2F6C63E07E2D</defTableSpace>
+<privileges>UNLIMITED TABLESPACE</privileges>
+</UserOraclev10g>

@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="E0F1AB53-224D-F4B3-6232-85D250013AEC" name="SYS_C007038">
+<sourceConnName>java</sourceConnName>
+<sourceObjSchema>JAVA</sourceObjSchema>
+<sourceObjName>SYS_C007038</sourceObjName>
+<createdBy>user</createdBy>
+<createdTime>2023-07-11 00:04:24 UTC</createdTime>
+<generatorID>사용자 생성</generatorID>
+<ownerDesignName>Ex08</ownerDesignName>
+<containerWithKeyObject>27B00D55-9066-33D8-B7E1-70FB655E566B</containerWithKeyObject>
+<deleteRule>NO ACTION</deleteRule>
+<localFKIndex>46C699B7-D087-7E74-FF49-41CDC570C328</localFKIndex>
+<keyObject>4ACAF1EB-FC97-DDF8-F165-C348C0ABF97B</keyObject>
+<mandatory>true</mandatory>
+<transferable>true</transferable>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

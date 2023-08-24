@@ -1,0 +1,70 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev11g class="oracle.dbtools.crest.model.design.storage.oracle.v11g.TableProxyOraclev11g" name="SALE" directorySegmentName="seg_0" id="424798F0-7082-9A52-5DC6-6E88C2D7A5C2">
+<createdBy>user</createdBy>
+<createdTime>2023-07-07 01:44:36 UTC</createdTime>
+<generatorID>사용자 생성</generatorID>
+<ownerDesignName>ex06</ownerDesignName>
+<schemaObject>F0289970-A6BE-1145-5601-ADDE1A1CCB8E</schemaObject>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<segment>E4FEE23E-0EB3-2720-1602-2803BD380243</segment>
+<tableSpace>32CB1D62-4CC3-2770-BB22-E64FEB6B4BB5</tableSpace>
+<temporaryChanged>false</temporaryChanged>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="SCODE" id="27455665-4141-B1BB-648D-E11A3145F279">
+<createdBy>user</createdBy>
+<createdTime>2023-07-07 01:44:36 UTC</createdTime>
+<generatorID>사용자 생성</generatorID>
+<ownerDesignName>ex06</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="QNT" id="2B7D4B85-A7FF-0C8F-62A8-8A43A7E1CD5C">
+<createdBy>user</createdBy>
+<createdTime>2023-07-07 01:44:36 UTC</createdTime>
+<generatorID>사용자 생성</generatorID>
+<ownerDesignName>ex06</ownerDesignName>
+<defaultValue>1</defaultValue>
+</ColumnProxy>
+<ColumnProxy name="SDATE" id="37FAD78D-E356-DA85-34EA-F516A1823FB8">
+<createdBy>user</createdBy>
+<createdTime>2023-07-07 01:44:36 UTC</createdTime>
+<generatorID>사용자 생성</generatorID>
+<ownerDesignName>ex06</ownerDesignName>
+<defaultValue>SYSDATE</defaultValue>
+</ColumnProxy>
+<ColumnProxy name="SPRICE" id="77D48617-32FF-C7AF-6EFC-3295F4C8DC18">
+<createdBy>user</createdBy>
+<createdTime>2023-07-07 01:44:36 UTC</createdTime>
+<generatorID>사용자 생성</generatorID>
+<ownerDesignName>ex06</ownerDesignName>
+<defaultValue>0</defaultValue>
+</ColumnProxy>
+<ColumnProxy name="PCODE" id="C8B5B3A7-2FCF-5FFA-7621-049C51235B3E">
+<createdBy>user</createdBy>
+<createdTime>2023-07-07 01:44:36 UTC</createdTime>
+<generatorID>사용자 생성</generatorID>
+<ownerDesignName>ex06</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<foreignKeys>
+<ForeignKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.FKProxyOraclev10g" name="SYS_C007023" id="66592216-F004-523D-EBC0-E612E1A94A99">
+<createdBy>user</createdBy>
+<createdTime>2023-07-07 01:44:36 UTC</createdTime>
+<generatorID>사용자 생성</generatorID>
+<ownerDesignName>ex06</ownerDesignName>
+</ForeignKey>
+</foreignKeys>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.PKProxyOraclev10g" name="SALE_PK" id="E33984A5-B387-47F2-1C89-8B67AB6D56E0">
+<createdBy>user</createdBy>
+<createdTime>2023-07-07 01:44:36 UTC</createdTime>
+<generatorID>사용자 생성</generatorID>
+<ownerDesignName>ex06</ownerDesignName>
+<schemaObject>F0289970-A6BE-1145-5601-ADDE1A1CCB8E</schemaObject>
+<segment>1056C6A6-6709-EA62-A781-07CFB5B12FB6</segment>
+<tableSpace>32CB1D62-4CC3-2770-BB22-E64FEB6B4BB5</tableSpace>
+<indexSegment>1056C6A6-6709-EA62-A781-07CFB5B12FB6</indexSegment>
+<indexSort>SORTED</indexSort>
+<usingIndex>BY INDEX NAME</usingIndex>
+</PrimaryKey>
+</primaryKeys>
+</TableProxyOraclev11g>
